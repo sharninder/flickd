@@ -1,0 +1,3 @@
+defaults:
+  api_key: xxxxx 
+  shared_secret: xxxxx
